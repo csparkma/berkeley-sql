@@ -8,8 +8,11 @@
   
   ![Pewlett Hackard Employee Schema ERD](https://github.com/csparkma/berkeley-sql/blob/master/challenge_resources/EmployeeDB.png)
   
-    Our analysis found that there are ~41.3k employees that are up for retirement in the next three years. This will create a significant gap in productivity as well as take additional resources to increase hiring efforts to fill this gap. The majority of the positions retiring are Senior positions and almost half (~49%) of all retiring positions are in the Engineering department. The majority of the Engineers leaving are Senior positions, so it is vital that we begin mentoring and training our more juniro/mid-level staff to fill these positions. However, seeing as there are only ~2k employees eligible for the mentorship programs, I would urge that we increase our hiring efforts effective immediately. It may be necessary to hire a 3rd-party coontracting company or recruiting firm to take on the workload as filling ~40k positions (over have of which are Senior), will not be an easy process.
+   Our analysis found that there are ~41.3k employees that are up for retirement in the next three years. This will create a significant gap in productivity as well as take additional resources to increase hiring efforts to fill this gap. The majority of the positions retiring are Senior positions and almost half (~49%) of all retiring positions are in the Engineering department. The majority of the Engineers leaving are Senior positions, so it is vital that we begin mentoring and training our more juniro/mid-level staff to fill these positions. However, seeing as there are only ~2k employees eligible for the mentorship programs, I would urge that we increase our hiring efforts effective immediately. It may be necessary to hire a 3rd-party coontracting company or recruiting firm to take on the workload as filling ~40k positions (over have of which are Senior), will not be an easy process.
     
-    I believe we should conduct further analysis to understand our current hiring process. That is,         1. How long does it take from First Contact to Hire Date
-      2. How many average applications per position do we receive
-      3. Finally, how many positions that are retiring need to be filled (i.e. can we use this opportunity to reorganize our current employee structure)
+   I believe we should conduct further analysis to understand our current hiring process. That is,
+   - How long does it take from First Contact to Hire Date
+   - How many average applications per position do we receive
+   - Finally, how many positions that are retiring need to be filled (i.e. can we use this opportunity to reorganize our current employee structure)
+
+With the information above, we can better plan our hiring process over the next 3 years to limit the resource gap. It will also help us evaluate recruiting firms by comparing against our own in-house process.
